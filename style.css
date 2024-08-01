@@ -1,0 +1,110 @@
+body {
+    background-color: hsl(0, 0%, 8%);
+
+}
+
+.costumer-name {
+    color: antiquewhite;
+}
+
+.region {
+    color: hsl(75, 94%, 57%);
+    margin-bottom: 5px;
+}
+
+.des {
+    color: antiquewhite;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.card {
+    text-align: center;
+    background-color: hsl(0, 0%, 12%);
+    margin: auto;
+    margin-top: 60px;
+    width: 30%;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.Mentor {
+    width: 80%;
+    background-color: hsl(0, 0%, 20%);
+    color: antiquewhite;
+    font-weight: 500;
+    padding: 15px;
+    margin-top: 8px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+.Mentor:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
+.LinkedIn {
+    width: 80%;
+    background-color: hsl(0, 0%, 20%);
+    color: antiquewhite;
+    font-weight: 500;
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+.LinkedIn:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
+.Twitter {
+    width: 80%;
+    background-color: hsl(0, 0%, 20%);
+    color: antiquewhite;
+    font-weight: 500;
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+.Twitter:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
+.Instagram {
+    width: 80%;
+    background-color: hsl(0, 0%, 20%);
+    color: antiquewhite;
+    font-weight: 500;
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+.Instagram:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
+.GitHub {
+    width: 80%;
+    background-color: hsl(0, 0%, 20%);
+    color: antiquewhite;
+    font-weight: 500;
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+.GitHub:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
