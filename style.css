@@ -21,11 +21,10 @@ body {
 .profile-pic {
     margin: auto;
     width: 200px;
-    /* Adjust the size as needed */
     height: 200px;
-    /* Ensure the height and width are equal */
     border-radius: 50%;
-    /* This makes the image circular */
+    background-image: url("./social-links-profile-main/assets/images/avatar-jessica.jpeg");
+    background-size: cover;
 }
 
 .card {
