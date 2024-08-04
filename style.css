@@ -1,10 +1,16 @@
 body {
     background-color: hsl(0, 0%, 8%);
+    align-items: center;
+    text-align: center;
+}
 
+.profile-pic {
+    text-align: center;
 }
 
 .costumer-name {
     color: antiquewhite;
+    margin-top: 30px;
 }
 
 .region {
@@ -14,8 +20,8 @@ body {
 
 .des {
     color: antiquewhite;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .card {
@@ -33,7 +39,7 @@ body {
     color: antiquewhite;
     font-weight: 500;
     padding: 15px;
-    margin: 5px auto;
+    margin: 8px auto;
     border-radius: 10px;
     transition: ease-in-out 300ms;
 }
@@ -49,7 +55,7 @@ body {
     color: antiquewhite;
     font-weight: 500;
     padding: 15px;
-    margin: 5px auto;
+    margin: 8px auto;
     border-radius: 10px;
     transition: ease-in-out 300ms;
 }
@@ -65,7 +71,7 @@ body {
     color: antiquewhite;
     font-weight: 500;
     padding: 15px;
-    margin: 5px auto;
+    margin: 8px auto;
     border-radius: 10px;
     transition: ease-in-out 300ms;
 }
@@ -81,7 +87,7 @@ body {
     color: antiquewhite;
     font-weight: 500;
     padding: 15px;
-    margin: 5px auto;
+    margin: 8px auto;
     border-radius: 10px;
     transition: ease-in-out 300ms;
 }
@@ -97,7 +103,7 @@ body {
     color: antiquewhite;
     font-weight: 500;
     padding: 15px;
-    margin: 5px auto;
+    margin: 8px auto;
     border-radius: 10px;
     transition: ease-in-out 300ms;
 }
