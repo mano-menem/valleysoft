@@ -18,26 +18,30 @@ body {
     margin-bottom: 5px;
 }
 
+.profile-pic {
+    border-radius: 50%;
+}
+
 .card {
     text-align: center;
     background-color: hsl(0, 0%, 12%);
     margin: auto;
     margin-top: 60px;
-    width: 30%;
+    width: 25%;
     padding: 10px;
     border-radius: 20px;
 }
 
 .Mentor {
-    width: 80%;
+    width: 50%;
     background-color: hsl(0, 0%, 20%);
     color: antiquewhite;
     font-weight: 500;
     padding: 15px;
-    margin-top: 8px;
     margin-bottom: 10px;
-    margin-left: 30px;
+    margin-left: 90px;
     border-radius: 10px;
+    transition-duration: 500ms;
 }
 
 .Mentor:hover {
@@ -46,14 +50,15 @@ body {
 }
 
 .LinkedIn {
-    width: 80%;
+    width: 50%;
     background-color: hsl(0, 0%, 20%);
     color: antiquewhite;
     font-weight: 500;
     padding: 15px;
     margin-bottom: 10px;
-    margin-left: 30px;
+    margin-left: 90px;
     border-radius: 10px;
+    transition-duration: 500ms;
 }
 
 .LinkedIn:hover {
@@ -62,14 +67,15 @@ body {
 }
 
 .Twitter {
-    width: 80%;
+    width: 50%;
     background-color: hsl(0, 0%, 20%);
     color: antiquewhite;
     font-weight: 500;
     padding: 15px;
     margin-bottom: 10px;
-    margin-left: 30px;
+    margin-left: 90px;
     border-radius: 10px;
+    transition-duration: 500ms;
 }
 
 .Twitter:hover {
@@ -78,14 +84,15 @@ body {
 }
 
 .Instagram {
-    width: 80%;
+    width: 50%;
     background-color: hsl(0, 0%, 20%);
     color: antiquewhite;
     font-weight: 500;
     padding: 15px;
     margin-bottom: 10px;
-    margin-left: 30px;
+    margin-left: 90px;
     border-radius: 10px;
+    transition-duration: 500ms;
 }
 
 .Instagram:hover {
@@ -94,15 +101,17 @@ body {
 }
 
 .GitHub {
-    width: 80%;
+    width: 50%;
     background-color: hsl(0, 0%, 20%);
     color: antiquewhite;
     font-weight: 500;
     padding: 15px;
     margin-bottom: 10px;
-    margin-left: 30px;
+    margin-left: 90px;
     border-radius: 10px;
+    transition-duration: 500ms;
 }
+
 
 .GitHub:hover {
     background-color: hsl(75, 94%, 57%);
