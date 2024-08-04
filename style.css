@@ -18,15 +18,6 @@ body {
     margin-bottom: 5px;
 }
 
-.profile-pic {
-    margin: auto;
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    background-image: url("./social-links-profile-main/assets/images/avatar-jessica.jpeg");
-    background-size: cover;
-}
-
 .card {
     text-align: center;
     background-color: hsl(0, 0%, 12%);
